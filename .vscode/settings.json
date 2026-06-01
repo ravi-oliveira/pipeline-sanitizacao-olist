@@ -1,0 +1,5 @@
+{
+    "ollama-autocoder.model": "codellama:7b-instruct",
+    "ollama-autocoder.completion keys": "*",
+    "vscode-ollama.model": "codellama:7b-instruct"
+}
